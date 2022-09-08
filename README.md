@@ -4,3 +4,4 @@
 <p>Você pode acessar meu GitHub particular <a href="https://github.com/jonasajato">aqui.</a></p>
 <p>Espero que goste do conteúdo! Vamos lá:</p>
 <li><a href="https://github.com/onetechstop/primeiroprogramajava-conceitos">Meu primeiro programa em Java + conceitos;</a><br>
+<li><a href="https://github.com/onetechstop/tiposprimitivosnumericos">Tipos primitivos númericos + cálculos básicos;</a><br>
